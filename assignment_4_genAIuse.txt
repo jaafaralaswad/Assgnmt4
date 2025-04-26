@@ -1,0 +1,2 @@
+ChatGPT was used to get information about python syntax, output format and debugging.
+ChatGPT was used to comment reference examples I studied.
